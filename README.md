@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+![Logo](https://the-wild-oasis-for-user-website.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b502d2fa.png&w=64&q=100)
+
+
+# The Wild Oasis
+
+The Wild Oasis is a web application built using Next.js, offering a serene escape to 8 stunning wooden cabins nestled in the picturesque mountains of the Dolomites, Italy. This application allows users to explore and book cabins, manage their bookings, and update their profiles with ease.
+
+
+## Features
+
+- Google Authentication: Users can securely log in using their Google accounts.
+- Explore Cabins: Browse through detailed descriptions and images of the 8 unique wooden cabins.
+- Booking Management: Book your desired cabin, view your bookings, and easily edit or delete them as needed.
+
+- Profile Management: View and update your profile information effortlessly.
+
+
+
+## Tech Stack
+
+**Client:** Built with Next.js and TailwindCSS providing a seamless and responsive user experience.
+
+**Server:** Data storage and management powered by Supabase, ensuring reliable and efficient handling of user and booking data.
+
+**Authentication:** Google authentication for secure and convenient user login.
+## Authors
+
+- [@malikrehman18](https://github.com/malikrehman18)
+
 
 ## Getting Started
 
-First, run the development server:
+Follow these instructions to get a copy of the project up and running on your local machine.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Prerequisites:**
+- Node.js
+- npm (or yarn)
+- Supabase account
+**Installation:**
+- Clone the repository
+- Install the dependencies: npm install
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
