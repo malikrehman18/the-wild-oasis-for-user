@@ -21,7 +21,7 @@ function ReservationForm({ cabin, user }) {
     endDate,
     numNights,
     cabinPrice,
-    cabinid: id,
+    cabinId: id,
   };
 
   const createBookingWithData = createBooking.bind(null, bookingData);
